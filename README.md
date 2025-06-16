@@ -109,7 +109,7 @@ The most valuable aspect of this project wasn't achieving high accuracy, but rat
 
 ## 📚 References
 
-- [YOLOv8 Official Paper](https://arxiv.org/abs/2305.09972)
+- [YOLOv8 Official Paper](https://arxiv.org/abs/2408.15857)
 - [PyTorch Official Documentation](https://docs.pytorch.org/docs/stable/index.html)
 
 ---
